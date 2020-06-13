@@ -1,0 +1,10 @@
+.image{
+    position: relative;
+    width: 60%;
+    height: 60%;
+}
+
+.text{
+    position: absolute;
+    left: 100px;
+}
